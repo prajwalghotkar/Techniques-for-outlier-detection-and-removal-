@@ -2,4 +2,4 @@
 
 1) Outlier removal using Z-Score
 #### * Trimming
-#### # Capping
+#### * Capping
