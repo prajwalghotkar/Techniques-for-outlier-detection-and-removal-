@@ -1,1 +1,1 @@
-# Techniques-for-outlier-detection-and-removal-
+# Techniques for outlier detection and removal
