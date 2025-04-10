@@ -5,3 +5,4 @@
 #### * Capping
 
 ### 2) Outlier Detection using IQR
+### 3) Outlier Detection using the percentile method
